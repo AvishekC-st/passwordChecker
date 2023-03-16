@@ -6,6 +6,6 @@ you're intending to use has been compromised.
  - make sure you are in the same directory as the file
  - run file from terminal followed by however many passwords you want to be checked
  
->  $ python main.py 
+>  $ main.py 
 > 
->  $ python main.py testpass1, testpass2 etc
+>  $  main.py testpass1, testpass2 etc
